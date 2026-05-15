@@ -13,7 +13,7 @@ A modular, production-structured Flutter application for community discussions. 
 
 | `HomeScreen` | `TopicDetailScreen` — reply input |
 |:---:|:---:|
-| ![HomeScreen](ss/home.jpg) | ![TopicDetailScreen](ss/reply.jpg) |
+| ![HomeScreen](ss/home.jpg) | ![TopicDetailScreen](forumProject/reply.jpg) |
 | Real-time topic feed | Topic body, reply list, `_ReplyInput` bar |
 
 ---
