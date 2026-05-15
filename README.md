@@ -8,15 +8,13 @@ A modular, production-structured Flutter application for community discussions. 
 
 | `LoginScreen` | `RegisterScreen` |
 |:---:|:---:|
-| ![LoginScreen](screenshots/login_screen.png) | ![RegisterScreen](screenshots/register_screen.png) |
+| ![LoginScreen](ss/login.jpg) | ![RegisterScreen](ss/reg.jpg) |
 | Email + password sign-in | Full name, email, password registration |
 
 | `HomeScreen` | `TopicDetailScreen` — reply input |
 |:---:|:---:|
-| ![HomeScreen](screenshots/home_screen.png) | ![TopicDetailScreen](screenshots/topic_detail_screen.png) |
+| ![HomeScreen](ss/home.jpg) | ![TopicDetailScreen](ss/reply.jpg) |
 | Real-time topic feed | Topic body, reply list, `_ReplyInput` bar |
-
-> Place your screenshots under `forums_app/screenshots/` and name them as above.
 
 ---
 
