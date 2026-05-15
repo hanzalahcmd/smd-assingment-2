@@ -1,0 +1,42 @@
+name: forums_app
+description: A modular Flutter Forums application with BLoC architecture.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Local Firebase module
+  firebase_module:
+    path: ../firebase_module
+
+  # Firebase
+  firebase_core: ^4.9.0
+  firebase_auth: ^6.5.1
+  cloud_firestore: ^6.4.1
+
+  # State management
+  flutter_bloc: ^9.1.1
+  bloc: ^9.2.1
+  equatable: ^2.0.5
+
+  # DI
+  get_it: ^9.2.1
+
+  # Utils
+  intl: ^0.20.2
+  google_fonts: ^8.1.0
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
