@@ -8,12 +8,12 @@ A modular, production-structured Flutter application for community discussions. 
 
 | `LoginScreen` | `RegisterScreen` |
 |:---:|:---:|
-| ![LoginScreen](ss/login.jpg) | ![RegisterScreen](ss/reg.jpg) |
+| ![LoginScreen](forumProject/login.jpg) | ![RegisterScreen](forumProject/reg.jpg) |
 | Email + password sign-in | Full name, email, password registration |
 
 | `HomeScreen` | `TopicDetailScreen` — reply input |
 |:---:|:---:|
-| ![HomeScreen](ss/home.jpg) | ![TopicDetailScreen](forumProject/reply.jpg) |
+| ![HomeScreen](forumProject/home.jpg) | ![TopicDetailScreen](forumProject/reply.jpg) |
 | Real-time topic feed | Topic body, reply list, `_ReplyInput` bar |
 
 ---
